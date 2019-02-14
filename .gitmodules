@@ -1,0 +1,3 @@
+[submodule "nested_dir"]
+	path = nested_dir
+	url = git@github.com:mk2/repo-for-submoduled.git
